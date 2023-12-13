@@ -62,3 +62,26 @@ Use this for all tasks or bugs (or add your own types that make sense) for the A
 
 ### Best Practices
 TODO
+
+### Tool Recommendations
+
+#### Experiment Tracking
+If you don't know what experiment tracking is checkout Neptune.ai's blog post [here]([url](https://neptune.ai/blog/ml-experiment-tracking)https://neptune.ai/blog/ml-experiment-tracking). Ultimately, if you already have something for experiement tracking keep using it, can expand the data you collect. 
+
+- My choice: [MLflow](https://mlflow.org/).
+It's probably the easiest to use and most flexible. If you are interested in a manged offering you can leverage with Databricks. 
+
+Other options (not exhaustive):
+- DVC
+- Comet ML
+- ClearML
+- ...
+
+#### Data Mangement
+- My choice: [DVC](https://dvc.org/)
+Again, lots of options, but this is easy to setup, use and gets you moving quickly. 
+
+Other Options (not exhaustive):
+- [Dolt](https://github.com/dolthub/dolt)
+- [Feast](https://feast.dev/)
+- ...
