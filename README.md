@@ -4,6 +4,9 @@ AI project framework, informed by Gitlab Maturity
 ## Workflow
 Workflow is a combination of github issues, tags, project, and built-in automation. This workflow is setup for Github, but the framework could be replicated in other systems. I like github because it keeps the data scientists working and planning in the same environment. 
 
+- [Issue Templates](#issue-templates)  
+- [Setting up the Workflow](#setting-up-the-workflow)
+- [Best Practices](#best-practices)
 
 ### Issue Templates
 There are two issues types available. Tasks are actions that add function to the AI project. Bugs are problems found with the AI project.
@@ -20,8 +23,7 @@ Each issue is made up of 5 components:
 #### Tags:
 <img width="666" alt="Screen Shot 2023-12-13 at 12 34 59 PM" src="https://github.com/jfirminger/AI-Project-Framework/assets/9371702/4b425c19-c632-49e2-9f50-91833848f40e">
 
-### Setting up Workflow
-TODO
+### Setting up the Workflow 
 
 #### 1. Use this repo as template
 Navigate to top left of [repo](https://github.com/jfirminger/AI-Project-Framework) and select 'use this template'. 
@@ -43,4 +45,20 @@ Your project workflow page should look something like this:
 
 <img width="1309" alt="Screen Shot 2023-12-13 at 12 51 10 PM" src="https://github.com/jfirminger/AI-Project-Framework/assets/9371702/967e8351-f993-4236-9c5f-5e315519befb">
 
+#### 4. Create First Milestone
 
+Create a milesone in github repo. This will be your buckets of work that you can priorite tasks and bugs into. Pick a reasonable date for current workstream. This date might be a release date of a company feature, update milestone for leadership, or something else. Its really just a line in the sand the team agrees to work within. 
+
+#### 5. Create First Task
+- Create new issue
+- Select Task issue type
+- Add title and detail content
+- Add tag(s) of associated AI stage
+- Add milestone based on priority, none if task is in parking lot
+
+#### 6. Rinse and Repeat
+
+Use this for all tasks or bugs (or add your own types that make sense) for the AI project. 
+
+### Best Practices
+TODO
