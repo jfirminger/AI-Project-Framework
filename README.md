@@ -66,15 +66,14 @@ TODO
 ### Tool Recommendations
 
 #### Experiment Tracking
-If you don't know what experiment tracking is checkout Neptune.ai's blog post [here]([url](https://neptune.ai/blog/ml-experiment-tracking)https://neptune.ai/blog/ml-experiment-tracking). Ultimately, if you already have something for experiement tracking keep using it, can expand the data you collect. 
+If you don't know what experiment tracking is checkout Neptune.ai's blog post [here]([url](https://neptune.ai/blog/ml-experiment-tracking)https://neptune.ai/blog/ml-experiment-tracking). Ultimately, if you already have something for experiement tracking keep using it, can expand the data you collect. Note, the tool you pick here does not suddenly give your team a massive competative advantage, pick something that works for your system today and don't over index on the decision. 
 
 - My choice: [MLflow](https://mlflow.org/).
 It's probably the easiest to use and most flexible. If you are interested in a manged offering you can leverage with Databricks. 
 
 Other options (not exhaustive):
-- DVC
-- Comet ML
-- ClearML
+- [DVC](https://dvc.org/)
+- [Comet ML](https://www.comet.com/site/)
 - ...
 
 #### Data Mangement
