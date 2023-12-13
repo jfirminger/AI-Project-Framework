@@ -70,7 +70,7 @@ Create a milesone in github repo. This will be your buckets of work that you can
 
 #### 6. Rinse and Repeat
 
-Use this for all tasks or bugs (or add your own types that make sense) for the AI project. 
+Use this for all tasks or bugs (or add your own types that make sense) for the AI project. Note: teams should meet, plan, and manually pull tasks and bugs into the `in progress` phase of the project Kanban. 
 
 ### Tool Recommendations
 
