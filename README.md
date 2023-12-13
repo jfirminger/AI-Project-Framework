@@ -1,7 +1,7 @@
 # AI-Project-Framework
 AI project framework, informed by Gitlab Maturity
 
-This repo is informed by the post [Gitlab Maturity For AI, Invest in AI and look good doing it](https://buildbetterfaster.substack.com/). 
+This repo is informed by the post [Gitlab Maturity For AI, Invest in AI and look good doing it](https://buildbetterfaster.substack.com/p/gitlab-maturity-for-ai). 
 
 ## Workflow
 Workflow is a combination of github issues, tags, project, and built-in automation. This workflow is setup for Github, but the framework could be replicated in other systems. I like github because it keeps the data scientists working and planning in the same environment. 
