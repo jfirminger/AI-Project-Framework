@@ -1,6 +1,6 @@
 ---
 name: Task
-about: Suggest an idea for this project
+about: Suggest an idea for this AI project
 title: ''
 labels: ai:task
 assignees: ''
