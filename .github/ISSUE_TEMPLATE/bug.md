@@ -13,13 +13,13 @@ _A clear and concise description of what the bug is and what it impacts_
 
 ### Select category of the bug
 
-[ ] Data 
-[ ] Train
-[ ] Evaluate
-[ ] Optimize
-[ ] Deploy 
-[ ] Govern
-[ ] Monitor    
+- [ ] Data 
+- [ ] Train
+- [ ] Evaluate
+- [ ] Optimize
+- [ ] Deploy 
+- [ ] Govern
+- [ ] Monitor    
 
 ### Expected behavior
 
