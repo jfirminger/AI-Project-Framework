@@ -23,10 +23,24 @@ Each issue is made up of 5 components:
 ### Setting up Workflow
 TODO
 
-#### Use this repo as template
+#### 1. Use this repo as template
+Navigate to top left of [repo](https://github.com/jfirminger/AI-Project-Framework) and select 'use this template'. 
+
+<img width="236" alt="Screen Shot 2023-12-13 at 12 45 41 PM" src="https://github.com/jfirminger/AI-Project-Framework/assets/9371702/5dd73331-fde4-4029-a550-31237a11e5c0">
+
+This will provide you with a clean repo with the issue templates and tags built in. 
+
+#### 2. Create Github project
+
+Create a project in Github for your team. Make sure everyone can access the project.
+
+#### 3. Setup Automations
+- Navigate to project workflow page. use `...` button on top right of project page. 
+- Ensure *Item added to project* is turned on
+- Ensure *Auto-add to project*. use this query `is:issue,pr is:open label:"ai:task","ai:bug"`
+
+Your project workflow page should look something like this:
+
+<img width="1309" alt="Screen Shot 2023-12-13 at 12 51 10 PM" src="https://github.com/jfirminger/AI-Project-Framework/assets/9371702/967e8351-f993-4236-9c5f-5e315519befb">
 
 
-#### Setup Github project
-
-
-#### Setup automations
