@@ -4,9 +4,19 @@ AI project framework, informed by Gitlab Maturity
 ## Workflow
 Workflow is a combination of github issues, tags, project, and built-in automation. This workflow is setup for Github, but the framework could be replicated in other systems. I like github because it keeps the data scientists working and planning in the same environment. 
 
+- [Best Practices](#best-practices)
 - [Issue Templates](#issue-templates)  
 - [Setting up the Workflow](#setting-up-the-workflow)
-- [Best Practices](#best-practices)
+- [Tool Recommendations](#tool-recommendations)
+
+### Best Practices
+Having a mature AI organiation involves building AI with a streamlined, task-focused approach. Instead of concentrating on features and sprints, the emphasis is on tasks and their priority, which makes Kanban an ideal method.
+
+The advantage of integrating the AI workflow into a Source Code Management (SCM) tool, like this (or GitLab), is that it aligns closely with the developer's existing workflow. This is especially beneficial for data scientists who are encouraged to enhance their coding practices.
+
+While many templates exist for managing code and tasks at this level, the key is to establish standard practices across issues, Kanban boards, and workflow tracking. This ensures not only consistency but also adds significant value to the project management process.
+
+Milestones can then be used to bucket work tasks into levels of priority and set a timeline for which to team to work towards. 
 
 ### Issue Templates
 There are two issues types available. Tasks are actions that add function to the AI project. Bugs are problems found with the AI project.
@@ -59,9 +69,6 @@ Create a milesone in github repo. This will be your buckets of work that you can
 #### 6. Rinse and Repeat
 
 Use this for all tasks or bugs (or add your own types that make sense) for the AI project. 
-
-### Best Practices
-TODO
 
 ### Tool Recommendations
 
